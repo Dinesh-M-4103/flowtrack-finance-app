@@ -1,0 +1,6 @@
+{
+  "name": "FlowTrack",
+  "description": "Sleek, high-performance personal finance tracking app with custom-built premium analytics, interactive spend charts, customizable savings goals, and local database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
